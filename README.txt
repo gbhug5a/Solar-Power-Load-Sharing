@@ -4,6 +4,6 @@ It presents the results of LTspice simulations of such a circuit.  Everything is
 explained in the PDF.
 
 Update:  The repo has been reorganized to divide its contents between the standard
-load sharing circuit and a new version that uses an opamp to drive the mofset gate.
+load sharing circuit and a new version that uses an opamp to drive the mosfet gate.
 The PDF explains both.
 
