@@ -1,7 +1,7 @@
 ## Solar Power Load Sharing
 
 ### Simulations of load sharing circuits used in solar-powered LIPO charger
-and physical testing of a new opamp version.
+### and physical testing of a new opamp version.
 
 
 ### Update 2:
