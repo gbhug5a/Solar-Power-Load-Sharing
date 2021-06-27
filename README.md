@@ -7,7 +7,7 @@
 ### Update 2:
 
 Results of actual testing of the solar-powered opamp circuit have been included,
-and the PDF has been updated accordingly. The issue of resistance to oscllation
+and the PDF has been updated accordingly. The issue of resistance to oscillation
 in the opamp circuit is addressed, and there is discussion of the programming
 resistor value on the TP4056 module - typically set at 1.2K for 1A charging current.
 
