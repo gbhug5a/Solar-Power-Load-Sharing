@@ -4,6 +4,12 @@
 ### and physical testing of a new opamp version.
 
 
+### Update 3:
+
+The opamp version has been revised to take into account the opamp's input offset
+voltage.  See the folder "OpampVersion-Revisited", and the PDF included therein.
+
+
 ### Update 2:
 
 Results of actual testing of the solar-powered opamp circuit have been included,
