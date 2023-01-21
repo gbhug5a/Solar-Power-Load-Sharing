@@ -4,10 +4,16 @@
 ### and physical testing of a new opamp version.
 
 
+### Update 4:
+
+Another modification prevents load current from flowing through the charger.
+See the folder "OpAmpVersion-Revisited-rev2" and included PDF.
+
+
 ### Update 3:
 
 The opamp version has been revised to take into account the opamp's input offset
-voltage.  See the folder "OpampVersion-Revisited", and the PDF included therein.
+voltage.  See the folder "OpAmpVersion-Revisited", and the PDF included therein.
 
 
 ### Update 2:
@@ -29,5 +35,3 @@ This repo examines the idea of using a standard load sharing (power path) circui
 in a LIPO charger powered by a solar panel instead of by a fixed 5V supply such as USB.
 It presents the results of LTspice simulations of such a circuit, and proposes a new
 circuit featuring a single opamp.  Everything is explained in the PDF.
-
-
